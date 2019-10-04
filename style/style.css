@@ -24,11 +24,11 @@ nav{
     text-decoration: underline;
 }
 .fot{
+    display: inline-block;
     border: none;
     margin: 20px 20px;
     height: 20px;
     bottom: 15px;
-    
 }
 .navbutton{
     color: gray;
